@@ -1,4 +1,4 @@
-# Master-s-group-projects
+# M.S projects
 # Lame-Emden Astrophysics
 In astrophysics, the Lane-Emden equation, named after Jonathan Homer Lane and Robert Emden, describes the structure of a star 
 with a polytropic equation of state P = Kρ(n+1)/n. This equation is a dimensionless form of Poisson’s equation for the gravitational
